@@ -1,4 +1,4 @@
-## Hi there 👋
+## Etudiant en ING2 à ECE Paris👋
 
 <!--
 **Meoukison/Meoukison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
